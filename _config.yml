@@ -2,6 +2,7 @@ name: olleblog
 favicon: null
 layout_spectrum: 0.1736393147148192
 typography_spectrum: 0.7599004465155303
+title: asd
 cta:
   domain: null
   bucket: null
