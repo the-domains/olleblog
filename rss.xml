@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[olleblog]]></title>
         <description><![CDATA[olleblog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/olleblog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 01:53:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 Nov 2015 01:54:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/olleblog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>vad ska man göra, ska man sälja sin lägenhet. hur mår benne, är det lugnt. sjukt mycket val med jobb, trött på mycket. oklart. fick ut några knölar ur armen, kändes bra. har några stygn och så men inget farligt. ska börja leva hälsosammar. sluta röka. ska göra om i lägenheten. förhoppningsvis köpa en lägenhet utanför rom tillsammans med ma o pa. skulle vara fett. går sjukt bra eg. om man zoomar ut lite. oroar mig för att jag blivit sämre på att zooma ut. samtidigt tror jag inte så mycket på att zooma ut. för mycket existens där. för lite udd för att kunna göra något bra från den synvinkeln. har svårt med nico, han lever inte upp till mina förväntningar och han förstår inte det. han har ingen mekanik för att mäta sigsjälv med omvärlden. det är kanske en fundamental förmåga för att bli bra. förhoppningsvis lär han sig. annars måste vi gå skilda vägar. är ganska fatalistisk på många sätt. men jag vet vad jag vill och har inga skrupler för att nå dit. tror jag skiljer mig mot många på det sättet. iofs är jag väldigt vänlig och snäll när det inte kommer ned till det slutgiltiga avgörandet, varpå jag tar på mig allt jobb själv. det är inte jättebra det heller. Men hursom var på prime skulle vi sitta isf. gavagai har form, jävligt oklart helt enkelt. </p>]]></description>
-            <link>undefined618bad2b-cd48-4932-9907-030517d96d46/index.html</link>
+            <link>https://thegrid.ai/olleblog/618bad2b-cd48-4932-9907-030517d96d46/index.html</link>
             <guid isPermaLink="false">618bad2b-cd48-4932-9907-030517d96d46</guid>
-            <pubDate>Tue, 24 Nov 2015 01:53:13 GMT</pubDate>
+            <pubDate>Tue, 24 Nov 2015 01:53:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
